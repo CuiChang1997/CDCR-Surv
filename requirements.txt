@@ -1,0 +1,11 @@
+numpy==1.26.4
+pandas==2.2.3
+pycox==0.3.0
+scikit-learn==1.5.2
+scikit-survival==0.23.0
+scipy==1.14.1
+torch==2.4.1+cu118
+torch-geometric==2.6.1
+torchaudio==2.4.1+cu118
+torchtuples==0.2.2
+torchvision==0.19.1+cu118
